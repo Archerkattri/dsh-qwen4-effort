@@ -27,6 +27,8 @@
     "reasoning-effort"
   ],
   "license": "MIT",
+  "author": "Archerkattri",
+  "homepage": "https://github.com/archerkattri/dsh-qwen4-effort#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/archerkattri/dsh-qwen4-effort.git"
