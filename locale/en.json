@@ -1,0 +1,1 @@
+{ "meta": { "title": "Qwen4 effort levels", "description": "Fills the official effort levels into Qwen4 models on your existing Qwen Token Plan routes: low/medium/xhigh (default xhigh) for Qwen4 Max Preview, low/high/xhigh (default high) for Qwen4 Max. No new provider; existing declarations preserved.", "detail": "docs/DETAIL.md" } }

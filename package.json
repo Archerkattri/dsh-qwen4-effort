@@ -1,0 +1,42 @@
+{
+  "name": "dsh-qwen4-effort",
+  "version": "0.1.0",
+  "description": "Fills the official Qwen4 effort levels (low, medium, xhigh) into Qwen4 models on your existing Qwen Token Plan routes in DeepSeek Harness",
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "cordis.patch.yml",
+    "locale/*.json",
+    "docs",
+    "icon.svg",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "dsh",
+    "deepseek-harness",
+    "dsh-plugin",
+    "cordis",
+    "qwen",
+    "qwen4",
+    "reasoning-effort"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archerkattri/dsh-qwen4-effort.git"
+  },
+  "bugs": {
+    "url": "https://github.com/archerkattri/dsh-qwen4-effort/issues"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}

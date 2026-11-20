@@ -1,0 +1,9 @@
+# Qwen4 effort levels for DeepSeek Harness.
+#
+# DSH's bundled pi-ai catalog does not describe Qwen4 yet, so hand-declared
+# Qwen4 models get no Effort menu. This bundle runs a small Host plugin that
+# merges a Qwen4 route into the existing llm-pi-ai configuration through the
+# config editor, preserving every provider already there.
+- insert:
+    - id: qwen4-effort
+      name: 'dsh-qwen4-effort'

@@ -1,0 +1,1 @@
+{ "meta": { "title": "Qwen4 推理等级", "description": "为已有 Qwen Token Plan 路由上的 Qwen4 模型补齐官方推理等级：Qwen4 Max Preview 为 low/medium/xhigh（默认 xhigh），Qwen4 Max 为 low/high/xhigh（默认 high）。不新建提供商，保留已有配置。", "detail": "docs/DETAIL.md" } }
