@@ -114,6 +114,10 @@ After the fill, a production model entry looks like:
 - `qwen4-max-preview` retires after its preview window (2026-11-25); the
   production `qwen4-max` is the recommended model afterwards.
 
+## Related
+
+- [dsh-qwen-websearch](https://github.com/Archerkattri/dsh-qwen-websearch) — Qwen Token Plan web search provider for the same plan: native `web_search` with Qwen3.8 Flash summaries and source citations.
+
 ## License
 
 MIT
