@@ -1,5 +1,7 @@
 # dsh-qwen4-effort
 
+[![CI](https://github.com/Archerkattri/dsh-qwen4-effort/actions/workflows/ci.yml/badge.svg)](https://github.com/Archerkattri/dsh-qwen4-effort/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 Effort levels for **Qwen4 Max** and **Qwen4 Max Preview** on the Qwen Token Plan
 routes you already use in **DeepSeek Harness (dsh)**.
 
